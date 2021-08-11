@@ -1,6 +1,21 @@
+### Hi, I’m Edwin 💻
 - 👋 Hi, I’m Edwin Gallegos Hernández
 - 👀 I’m interested in web development especially in front-end although I do not leave aside the back-end
 - 🌱 I’m currently learning a lot about web development
+
+```javascript
+const edwin.mgh = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web developer", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql"],
+    }
+};
+```
 
 <!---
 edwinmghdez/edwinmghdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
