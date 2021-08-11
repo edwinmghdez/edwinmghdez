@@ -1,11 +1,9 @@
-### ¡Hola 👋! soy edwin.mgh 💻
-
 <!---
 - 👋 Hi, I’m Edwin Gallegos Hernández
 - 👀 I’m interested in web development especially in front-end although I do not leave aside the back-end
 - 🌱 I’m currently learning a lot about web development
 --->
-
+<h1 align="center"> ¡Hola 👋! soy edwin.mgh 💻 </h1>
 
 ```javascript
 const edwin.mgh = {
