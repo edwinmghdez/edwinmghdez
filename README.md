@@ -11,10 +11,12 @@ const edwin.mgh = {
     askMeAbout: ["web developer", "tech", "game"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css,
+            bootstrap,
+            react
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql"],
+        backEnd: ["Java", "PHP", "Node", "Express"],
+        databases: ["MySql", "Mongo"]
     }
 };
 ```
