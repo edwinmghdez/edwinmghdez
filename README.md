@@ -8,7 +8,6 @@
 <h3 align="center">About me:</h3>
 <div align="center">
   <li> I am currently Backend Developer 👨‍💻 </li>
-  <li> And I find myself learning Flutter 🤓 </li>
 </div>
 <br>
 <h3 align="center">Some Technologies, Languages and Frameworks 🔧</h3>
